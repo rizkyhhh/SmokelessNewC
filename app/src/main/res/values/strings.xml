@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">SMOKELESS</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    //Login
+    <string name="username_login">Username</string>
+    <string name="pass_login">Password</string>
+    <string name="get_started">Ayo Mulai</string>
+    <string name="create_acc">Buat Akun</string>
+    <string name="need_help">Butuh Bantuan?</string>
+
+    //Daily input
+    <string name="daily_question">Halo Dimas, berapa batang rokok yang anda konsumsi hari ini?</string>
+    <string name="how_much_cigar">Batang Rokok</string>
+    <string name="submit_daily">Lanjut</string>
+
+    //Daily motivation
+    <string name="daily_motiv">Halo Dimas, berhenti merokok karena ingin membuat ibu bahagia</string>
+    <string name="submit_motiv">Terimakasih</string>
+
+    //Input Pertama
+    <string name="first_daily_greet">Halo, Dimas. Apa motivasimu untuk berhenti merokok?</string>
+    <string name="first_daily_motiv">Tulis Disini</string>
+    <string name="first_daily_question">Berapa batang rokok yang anda hisap terakhir kali?</string>
+    <string name="first_last_cigar">Batang rokok</string>
+    <string name="first_submit">Lanjut</string>
+
+
+    //Heatlh Progress
+    <string name="health_info">Halo Dimas, selamat anda mengurangi jumlah polusi di indonesia</string>
+    <string name="health_submit">Lanjut</string>
+
+    //Money Progress
+    <string name="money_logo">$</string>
+    <string name="money_info">Halo Dimas, selamat anda berhemat </string>
+    <string name="money_submit">Lanjut</string>
+
+    //Graphic
+    <string name="graph_example">GRAPHICS</string>
+    <string name="graph_submit">Terimakasih</string>
+
+    //History
+    <string name="history_daily_text">Halo ,Dimas. Kemarin kamu merokok</string>
+    <string name="history_daily_info">10 batang</string>
+    <string name="history_weekly_text">Halo ,Dimas. Minggu kemarin kamu merokok</string>
+    <string name="history_weekly_info">1 batang</string>
+    <string name="history_submit">Terimakasih</string>
+
+    //User Info
+    <string name="user_info_nama">Dimas</string>
+    <string name="user_info_umur">22 Tahun</string>
+    <string name="user_info_level">Level 11</string>
+    <string name="user_info_submit">Ke Menu</string>
+
+    //Need help
+    <string name="need_help_form">Apa masalahmu?</string>
+    <string name="need_help_email">e-Mail</string>
+    <string name="need_help_submit">Masuk</string>
+
+    //User Profile
+    <string name="user_profile_nama">Dimas</string>
+    <string name="user_profile_umur">22 Tahun</string>
+    <string name="user_profile_email">dimas@gmail.com</string>
+    <string name="user_profile_pass">******</string>
+    <string name="user_profile_submit">Ke Menu</string>
+
+    //Register
+    <string name="register_username">Username</string>
+    <string name="register_nama">Nama</string>
+    <string name="register_umur">Umur</string>
+    <string name="register_email">Email</string>
+    <string name="register_pass">Password</string>
+    <string name="register_submit">Masuk</string>
+    <string name="title_activity_home">MENU UTAMA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All Pets</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

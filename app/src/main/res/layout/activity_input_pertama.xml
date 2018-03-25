@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.smokeless.smokelessnewc.InputPertama"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="40dp">
+
+    <TextView
+        android:id="@+id/first_daily_text_name"
+        android:layout_width="297dp"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:text="@string/first_daily_greet"
+        android:textColor="#000000"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/first_daily_input"
+        android:layout_width="300dp"
+        android:layout_height="99dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/edit_text_input"
+        android:hint="@string/first_daily_motiv"
+        android:paddingLeft="16dp" />
+
+    <TextView
+        android:id="@+id/first_daily_text_rokok"
+        android:layout_width="297dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="10dp"
+        android:text="@string/first_daily_question"
+        android:textColor="#000000"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/first_daily_input_rokok"
+        android:layout_width="299dp"
+        android:layout_height="46dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/edit_text_input"
+        android:hint="@string/first_last_cigar"
+        android:paddingLeft="16dp" />
+
+    <Button
+        android:id="@+id/submit_first_daily"
+        android:layout_width="301dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_submit"
+        android:text="@string/first_submit"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+
+
+</LinearLayout>
